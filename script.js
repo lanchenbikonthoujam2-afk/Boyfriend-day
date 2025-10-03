@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const khangningiContent = `
         <h1 style="color: #e91e63;">I just want to say I love you.</h1>
         <img src="kawaii-bunny.gif" alt="Kawaii Bunny GIF" style="max-width: 100%; height: auto; margin: 15px 0;">
-        <p style="font-size: 1.4em;">You are my one & only love in my life💋.</p>
+        <p style="font-size: 1.4em;">You are my one and only love in my life💋.</p>
         <p style="font-size: 1.4em;">Thank you for your Love🫠💗</p>
         <button id="next-page-2-btn" class="option-btn">Next Page</button>
         <button id="back-to-page-1-btn" class="option-btn back-btn">Go Back</button>
