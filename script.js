@@ -70,3 +70,4 @@ document.addEventListener('DOMContentLoaded', () => {
     khangningdeBtn.addEventListener('click', () => showPage2(true));
 });
 
+
