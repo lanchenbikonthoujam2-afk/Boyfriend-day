@@ -1,19 +1,17 @@
-body {
-    background-color: #f4f4f9; /* Light background */
-    font-family: sans-serif;
-    text-align: center;
-    padding-top: 50px;
+/* Styling for the interactive buttons */
+.option-btn {
+    background-color: #ff4081; /* Bright Pink/Red color */
+    color: white; /* White text */
+    padding: 15px 30px; /* Big padding makes the buttons larger */
+    font-size: 1.2em; /* Makes the text bigger */
+    border: none;
+    border-radius: 8px; /* Slightly rounded corners */
+    cursor: pointer;
+    margin: 10px 5px; /* Adds space around the buttons */
+    transition: background-color 0.3s;
 }
 
-.card {
-    background-color: white;
-    padding: 30px;
-    border-radius: 15px;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    max-width: 400px;
-    margin: 0 auto;
+.option-btn:hover {
+    background-color: #e91e63; /* Darker red on hover/press */
 }
 
-h1 {
-    color: #ff69b4; /* Pink color for titles */
-}
